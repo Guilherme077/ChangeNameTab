@@ -1,0 +1,23 @@
+{
+    "name": "ChangeName",
+    "version": "1.1.2",
+    "manifest_version": 2,
+    "permissions": [
+        "tabs",
+        "http://shellshock.io/*",
+        "https://shellshock.io/*"
+      ],
+      "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+      },
+      "browser_action": {
+        "default_icon": "icon.png"
+      },
+    "content_scripts": [
+      {
+        "matches": ["http://shellshock.io/*", "https://shellshock.io/*"],
+        "js": ["meu-script.js"]
+      }
+    ]
+  }

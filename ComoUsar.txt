@@ -1,0 +1,22 @@
+ChangeNameTab - Como Usar
+
+Atenção: Compatível apenas com navegadores Chromium (Google Chrome, Ms Edge, etc.)
+
+
+1.  Baixe os arquivos
+
+2. Descompacte os arquivos em uma pasta
+
+3. Acesse o gerenciador de extensões (três pontinhos -> Extensões -> Gerenciar extensões)
+
+4. Habilite o Modo do Desenvolvedor
+
+5. Clique em "Carregar sem compactação"
+
+6. Selecione a pasta onde foram extraídos os arquivos no passo 2
+
+7. Verifique se a extensão está ativada e acesse um site compatível
+
+
+SITES COMPATÍVEIS:
+ + ShellShock.io
